@@ -1,2 +1,2 @@
-# akka-hello-template
-Clone this project to start a new Akka project
+# akka-samples
+Some examples of how to use Akka-actors
